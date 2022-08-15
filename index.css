@@ -13,7 +13,7 @@ body {
   min-height: 100vh;
   width: 100vw;
   /* border-color: hsl(0, 0%, 100%); */
-  background-color: black;
+  background-color: hsl(233, 47%, 7%);
 }
 
 .card {
